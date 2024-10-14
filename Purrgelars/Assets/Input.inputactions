@@ -2,7 +2,7 @@
     "name": "Input",
     "maps": [
         {
-            "name": "Player 2",
+            "name": "Ron",
             "id": "05861dd0-dedb-406e-934a-df3575b914ff",
             "actions": [
                 {
@@ -17,7 +17,7 @@
             ],
             "bindings": [
                 {
-                    "name": "WASD",
+                    "name": "ArrowKeys",
                     "id": "00ca640b-d935-4593-8157-c05846ea39b3",
                     "path": "Dpad",
                     "interactions": "",
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "name": "Player 1",
+            "name": "Rob",
             "id": "3aa549ce-fb72-4136-85c3-850a94b79c0f",
             "actions": [
                 {
